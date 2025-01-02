@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hasenahmedaly.github.io/hasenahmedely-portfolio/sitemap.xml
